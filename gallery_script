@@ -1,0 +1,876 @@
+#BODY
+push
+move
+250 150 0
+rotate
+y -30
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -45
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -45
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+x -20
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+1.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -85
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -105
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+2.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -125
+rotate
+z -15
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -130
+rotate
+z 15
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+3.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -25
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 25
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+4.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -25
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+z 40
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 25
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+z -40
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+5.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -30
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+z 80
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 30
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+z -80
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+6.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -35
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+z 120
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 35
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+z -120
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+7.png
+pop
+
+clear
+
+****************************************************
+#BODY
+push
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -30
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+z 75
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 40
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+z -70
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+8.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z -10
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+z 20
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 80
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+z -25
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+9.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z 40
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+10.png
+pop
+
+clear
+
+****************************************************
+#BODY
+box
+-80 125 50 160 250 100
+
+#HEAD
+push
+move
+0 175 0
+rotate
+y 90
+sphere
+0 0 0 50
+pop
+
+
+#LEFT ARM
+push
+move
+-80 125 0
+rotate
+x -180
+rotate
+z 20
+box
+-40 0 40 40 120 80
+
+#LEFT LOWER ARM
+push
+move
+-20 -120 0
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#RIGHT ARM
+push
+move
+80 125 0
+rotate
+x -180
+rotate
+z -20
+box
+0 0 40 40 120 80
+
+#RIGHT LOWER ARM
+push
+move
+20 -120 0
+rotate
+y 10
+box
+-10 0 10 20 125 20
+pop
+pop
+
+#LEFT LEG
+push
+move
+-80 -125 0
+box
+0 0 40 50 120 80
+pop
+
+#RIGHT LEG
+push
+move
+80 -125 0
+box
+-50 0 40 50 120 80
+display
+save
+11.png
+pop
+
+clear
